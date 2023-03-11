@@ -242,9 +242,18 @@ tr > td {
     width: 700px;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 #direita {
     background-color: #4F8AE3;
     width: 70px;
+}
+
+#desafio4 {
+    background-color: #A295BF;
+    width: 65%;
+    border-radius: 30px;
+    margin-top: 20px;
+    padding: 20px;
 }
