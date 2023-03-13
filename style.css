@@ -113,6 +113,7 @@ tr > td {
 #piramide {
     display: flex;
     justify-content: center;
+    margin-top: 7px;
 }
 
 #um {
@@ -256,4 +257,10 @@ tr > td {
     border-radius: 30px;
     margin-top: 20px;
     padding: 20px;
+}
+
+#video {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
 }
